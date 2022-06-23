@@ -1,0 +1,1 @@
+# SQL-Querie-and-Tableau-Visualization-for-Covid-Data
