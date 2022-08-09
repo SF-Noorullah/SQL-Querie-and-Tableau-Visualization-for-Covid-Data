@@ -1,6 +1,4 @@
--- Queries I originally had, but excluded some because it created too long of video
--- Here only in case you want to check them out
-
+-- The following queries were used to create visulaizations in Tableau
 
 -- 1.
 
